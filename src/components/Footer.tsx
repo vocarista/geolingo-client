@@ -13,7 +13,7 @@ const Footer = () => {
         <p className="font-thin">Created by Modulus</p>
         <div className={`ml-${isMobile ? '0' : '0'}`}> {/* Use ml-auto in non-mobile view */}
           <a
-            href="https://github.com/your-github-profile"
+            href="https://github.com/vocarista/geolingo-client"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-200"
